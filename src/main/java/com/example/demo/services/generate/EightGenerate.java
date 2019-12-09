@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.services.generate;
 
 import java.util.Random;
 
