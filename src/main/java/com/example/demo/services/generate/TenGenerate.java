@@ -1,6 +1,6 @@
-package com.example.demo;
+package com.example.demo.services.generate;
 
-public class SixGenerate implements GenerateAccNum{
+public class TenGenerate implements GenerateAccNum {
 
 	@Override
 	public String generateNumber() {

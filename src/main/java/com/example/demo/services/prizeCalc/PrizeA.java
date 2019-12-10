@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.services.prizeCalc;
 
 public class PrizeA implements CalculatePrize {
 
