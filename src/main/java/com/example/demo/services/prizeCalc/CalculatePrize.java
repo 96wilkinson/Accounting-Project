@@ -1,5 +1,5 @@
 package com.example.demo.services.prizeCalc;
 
 public interface CalculatePrize {
-	public int calculatePrize();
+	int calculatePrize(int accNum);
 }
